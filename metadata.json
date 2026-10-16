@@ -1,0 +1,6 @@
+{
+  "name": "StudyMate",
+  "description": "Student Study Planner to manage daily routines, assignments, exams, timetables, and study goals with a focus timer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
